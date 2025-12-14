@@ -70,10 +70,11 @@ ADMIN_HANDLES = [
     "YOUR_HANDLE", # 👈 این را با یوزرنیم خود جایگزین کنید
     "amirhoseyn_karim",
     "mahdi1386212"
+    "MrMohamad_taha"
 ]
-SUPPORT_ID = 7065133460 # 👈 آیدی عددی پشتیبانی
-ADMIN_ID = 7065133460 # 👈 آیدی عددی ادمین اصلی
-ORDER_CHANNEL = "@STARZAKHDAR" # 👈 کانال ثبت سفارشات
+SUPPORT_ID = 8425368868 # 👈 آیدی عددی پشتیبانی
+ADMIN_ID = 8425368868 # 👈 آیدی عددی ادمین اصلی
+ORDER_CHANNEL = "@stars12222" # 👈 کانال ثبت سفارشات
 
 # --- ثابت‌ها برای UX (استیکرها) ---
 STICKER_WELCOME = "CAACAgIAAxkBAAITxmVm043_1gABd9g0t0xYk2o_l3I35AACEwADOzJ5S-zW9Vf-9gABMwQ"
